@@ -1,8 +1,4 @@
 # leetcode-roadmap
-
-
-
-Dsa roadmap java · MD
 # The Complete DSA Mastery Roadmap (Java Edition)
  
 A structured course — not a problem dump. ~150 hand-picked problems, ordered so every problem teaches you something the next problem needs.
